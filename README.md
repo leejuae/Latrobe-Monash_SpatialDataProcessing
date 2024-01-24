@@ -1,4 +1,4 @@
-# Latrobe-Monash_SpatialDataProcessing
+# 서울시 부동산과 상권을 이용한 업종에 따른 창업위치 추천
 > 2024 Gachon Univ. and Latrobe Univ., Monash Univ student internship project
 ***
 ### Used dataset
